@@ -1,0 +1,5 @@
+/Users/dl960/Desktop/untitled folder/Untitled/aitt-w3-motion/.utmp/RelWithDebInfo/4s1q1vn6/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/dl960/Desktop/untitled folder/Untitled/aitt-w3-motion/.utmp/RelWithDebInfo/4s1q1vn6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/dl960/Desktop/untitled folder/Untitled/aitt-w3-motion/.utmp/RelWithDebInfo/4s1q1vn6/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/dl960/Desktop/untitled folder/Untitled/aitt-w3-motion/.utmp/RelWithDebInfo/4s1q1vn6/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/dl960/Desktop/untitled folder/Untitled/aitt-w3-motion/.utmp/RelWithDebInfo/4s1q1vn6/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
