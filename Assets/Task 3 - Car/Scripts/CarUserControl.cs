@@ -8,6 +8,9 @@ namespace UnityStandardAssets.Vehicles.Car
     {
         private CarController m_Car; // the car controller we want to use
 
+        float gravity = 0.0f;
+        float sensitivity = 0.1f;
+
         private void Awake()
         {
             // get the car controller
