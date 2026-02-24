@@ -17,9 +17,10 @@ namespace UnityStandardAssets.Vehicles.Car
 
         private void FixedUpdate()
         {
+            
             // pass the input to the car!
-            float h = Input.GetAxis("Horizontal");
-            float v = Input.GetAxis("Vertical");
+            float h = Input.acceleration.x;
+            float v = Input.acceleration.y;
             float handbrake = Input.GetAxis("Jump");
             m_Car.Move(h, v, v, handbrake);
         }
